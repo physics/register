@@ -16,14 +16,14 @@ regJS utilizes reactJS to offer a free frontend template.
 
 ## Prerequisite Node Libraries
 
-  <li>http
-  <li>react
-  <li>react-table
-  <li>react-bootstrap
-  <li>request
-  <li>request-promise-native
-  <li>mysql
-  <li>express
+*http
+*react
+*react-table
+*react-bootstrap
+*request
+*request-promise-native
+*mysql
+*express
 
 ## Forking
 If one wishes to fork regJS, they may feel free to do so. Use this register as your own!
