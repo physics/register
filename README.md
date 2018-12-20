@@ -8,8 +8,23 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Mission
-Provide a template of a simple register/login system utilizing a a relational database (MySQL) and NodeJS.
+## Backend
+regJS is a modern register/login system written using MySQL, expressJS, nodeJS, reactJS, HTML, CSS3, and EMCAScript6.
+
+## Frontend
+regJS utilizes reactJS to offer a free frontend template.
+
+## Prerequisite Node Libraries
+<li>
+  http
+  react
+  react-table
+  react-bootstrap
+  request
+  request-promise-native
+  mysql
+  express
+</li>
 
 ## Forking
 If one wishes to fork regJS, they may feel free to do so. Use this register as your own!
