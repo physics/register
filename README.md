@@ -15,16 +15,15 @@ regJS is a modern register/login system written using MySQL, expressJS, nodeJS, 
 regJS utilizes reactJS to offer a free frontend template.
 
 ## Prerequisite Node Libraries
-<li>
-  http
-  react
-  react-table
-  react-bootstrap
-  request
-  request-promise-native
-  mysql
-  express
-</li>
+
+  <li>http
+  <li>react
+  <li>react-table
+  <li>react-bootstrap
+  <li>request
+  <li>request-promise-native
+  <li>mysql
+  <li>express
 
 ## Forking
 If one wishes to fork regJS, they may feel free to do so. Use this register as your own!
