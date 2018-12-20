@@ -1,0 +1,2 @@
+# regJS
+🚀 Speedy JS Register 🚀
