@@ -1,0 +1,26 @@
+{
+  "name": "clicker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "fs-js": "^1.0.6",
+    "mysql": "^2.16.0",
+    "react": "^16.4.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4",
+    "react-table": "^6.8.6",
+    "reactjs": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
